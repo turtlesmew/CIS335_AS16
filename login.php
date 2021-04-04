@@ -17,7 +17,7 @@ $person = new Person($db);
 $page_title = "Login";
 include_once "layouts/layout_header.php";
 echo "<div class='input-group col-md-3 pull-left margin-right-1em'>
-    <a href='#' class='btn btn-default pull-left'>Github Source Code</a>
+    <a href='https://github.com/turtlesmew/CIS335_AS16' class='btn btn-default pull-left'>Github Source Code</a>
     </div>";
 
 echo "<div class='right-button-margin'>
